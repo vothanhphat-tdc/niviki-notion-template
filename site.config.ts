@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'NIVIKI.COM - TỰ DO TÀI CHÍNH',
-  domain: 'niviki.com',
-  author: 'Khoa Nguyen',
+  name: 'FINTECH24H.COM - BLOCKCHAIN AGENCY & MORE',
+  domain: 'fintech24h.com',
+  author: 'Phat Vo - Co-Founder & CPO',
 
   // open graph metadata (optional)
-  description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
+  description: 'Blockchain Agency & More',
 
   // social usernames (optional)
   twitter: 'fintech24h_com',
