@@ -17,14 +17,14 @@ export default siteConfig({
   description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
 
   // social usernames (optional)
-  twitter: 'khoa_nvk',
+  twitter: 'fintech24h_com',
   // github: 'transitive-bullshit',
-  linkedin: 'khoanguyen08',
+  linkedin: 'fintech24h',
   
-  facebook: 'https://www.facebook.com/groups/nocodevietnam',
+  facebook: 'https://www.facebook.com/fintech24hnews',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+//  youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -58,19 +58,10 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Blog',
-      pageId: '59432e1a0cdf4effbb402701deff00a9'
+      pageId: 'Fintech24h-Blockchain-Agency-More-f6481c28eba24a01a9ddc4fd73bc8cd5?pvs=4'
     },    
-    {
-      title: 'NoCode VN',
-      pageId: '93331fa2964045248502bd314019c917'
-    },    
-    {
-      title: 'Khoá học',
-      pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
-    },    
-    {
-      title: 'About',
-      pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
-    }
+   
+    
+    
   ]
 })
